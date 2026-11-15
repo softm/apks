@@ -33,6 +33,22 @@
       "package": "net.softm.juyuhannun",
       "releases": [
         {
+          "version": "1.1.19",
+          "code": 24,
+          "label": "juyuhannun-24",
+          "date": "2026-11-16",
+          "registeredAt": "2026-11-16T00:21:37+09:00",
+          "type": "release",
+          "minAndroid": "8.0",
+          "file": "https://github.com/softm/apks/releases/download/juyuhannun-24/juyuhannun-24-release.apk",
+          "bytes": 17863217,
+          "sha256": "d5cf8608a7b84cacdf1beca2e5cea7da1f62edb1d084186e8cd60a7c1c269c27",
+          "notes": [
+            "2.5D 주행탐색 상대 방향 라벨 및 전방 후보 필터 (웹 연동)",
+            "실제 도로 진입 가능 여부는 별도 경로 검증 필요"
+          ]
+        },
+        {
           "version": "1.1.18",
           "code": 23,
           "label": "juyuhannun-23",
