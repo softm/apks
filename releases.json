@@ -7,6 +7,23 @@
       "package": "softm.android.gagyebu",
       "releases": [
         {
+          "version": "1.0.7-debug",
+          "code": 8,
+          "label": "gagyebu-8-debug",
+          "date": "2026-11-17",
+          "registeredAt": "2026-11-17T12:05:00+09:00",
+          "type": "debug",
+          "minAndroid": "7.0",
+          "file": "https://github.com/softm/apks/releases/download/gagyebu-8-debug/gagyebu-8-debug.apk",
+          "bytes": 54543662,
+          "sha256": "578922ad4a6ccb4c340c5d3f2fb77dd192e78d8debe639f1f482bc8a72754f1d",
+          "notes": [
+            "기존 Play 설치본과 함께 설치되는 별도 Debug 패키지입니다.",
+            "온라인 웹이 5초 안에 열리지 않으면 내장 오프라인 화면으로 자동 전환합니다.",
+            "가계부 1.0.7 인앱 업데이트 확인과 Cloudflare 공통 계정 연동을 포함합니다."
+          ]
+        },
+        {
           "version": "1.0.5",
           "code": 6,
           "label": "gagyebu-6",
