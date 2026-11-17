@@ -14,7 +14,7 @@
           "registeredAt": "2026-11-17T12:05:00+09:00",
           "type": "debug",
           "minAndroid": "7.0",
-          "file": "https://github.com/softm/apks/releases/download/gagyebu-8-debug/gagyebu-8-debug.apk",
+          "file": "https://softm.github.io/apks/downloads/gagyebu-8-debug.apk",
           "bytes": 54543662,
           "sha256": "578922ad4a6ccb4c340c5d3f2fb77dd192e78d8debe639f1f482bc8a72754f1d",
           "notes": [

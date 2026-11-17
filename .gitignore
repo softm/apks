@@ -1,5 +1,6 @@
 .DS_Store
 *.apk
+!downloads/*.apk
 *.aab
 *.jks
 *.keystore
