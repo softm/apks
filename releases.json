@@ -11,15 +11,15 @@
           "code": 8,
           "label": "gagyebu-8-debug",
           "date": "2026-11-17",
-          "registeredAt": "2026-11-17T12:05:00+09:00",
+          "registeredAt": "2026-11-17T13:32:15+09:00",
           "type": "debug",
           "minAndroid": "7.0",
           "file": "https://softm.github.io/apks/downloads/gagyebu-8-debug.apk",
-          "bytes": 54543662,
-          "sha256": "578922ad4a6ccb4c340c5d3f2fb77dd192e78d8debe639f1f482bc8a72754f1d",
+          "bytes": 54543665,
+          "sha256": "54b5855f9f9194f3aed1fe428c9ebc1c9486eaec5dc60eeab95d3b769eebde12",
           "notes": [
             "기존 Play 설치본과 함께 설치되는 별도 Debug 패키지입니다.",
-            "온라인 웹이 5초 안에 열리지 않으면 내장 오프라인 화면으로 자동 전환합니다.",
+            "누락된 저장소·동기화 모듈을 복원하고 검증된 내장 화면을 기본으로 사용합니다.",
             "가계부 1.0.7 인앱 업데이트 확인과 Cloudflare 공통 계정 연동을 포함합니다."
           ]
         },
