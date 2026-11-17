@@ -50,6 +50,23 @@
       "package": "net.softm.juyuhannun",
       "releases": [
         {
+          "version": "1.1.20",
+          "code": 25,
+          "label": "juyuhannun-25",
+          "date": "2026-11-17",
+          "registeredAt": "2026-11-17T19:55:57+09:00",
+          "type": "release",
+          "minAndroid": "8.0",
+          "file": "https://github.com/softm/apks/releases/download/juyuhannun-25/juyuhannun-25-release.apk",
+          "bytes": 17896636,
+          "sha256": "33496d3590afd54b1fca579e6cb2b41d032f3aff525997ddaff38d0d454dc84c",
+          "notes": [
+            "2.5D 레이더 전방탐색 ON/OFF 및 후방 후보 필터",
+            "기존 자동차 경로 프록시 기반 진입 방향 분류와 보수적 미확인 표시",
+            "직접 진입 경로 확인 주유소 우선 추천 및 GPS 불안정 보호"
+          ]
+        },
+        {
           "version": "1.1.19",
           "code": 24,
           "label": "juyuhannun-24",
