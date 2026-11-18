@@ -394,6 +394,31 @@
           ]
         }
       ]
+    },
+    {
+      "id": "btmusic",
+      "name": "블루투스 내비뮤직",
+      "description": "차량 블루투스 연결에 맞춰 내비게이션과 음악 앱을 실행하는 자동화 앱",
+      "package": "net.softm.startbluetooth.music",
+      "releases": [
+        {
+          "version": "1.1.0.009",
+          "code": 15,
+          "label": "btmusic-15",
+          "date": "2026-11-19",
+          "registeredAt": "2026-11-19T02:18:20+09:00",
+          "type": "release",
+          "minAndroid": "7.0",
+          "file": "https://softm.github.io/apks/downloads/btmusic-15-release.apk",
+          "bytes": 31385617,
+          "sha256": "4646ce21eb4397b738812ba4b55f065c338145205123c5337d4baf6a8fe731a6",
+          "notes": [
+            "접근성 서비스를 다시 활성화하고 isAccessibilityTool=false를 명시했습니다.",
+            "접근성 설정에서 서비스 노출과 연결을 확인했습니다.",
+            "Android 11 에뮬레이터에서 서명 Release 설치 및 3회 반복 실행을 검증했습니다."
+          ]
+        }
+      ]
     }
   ]
 }
