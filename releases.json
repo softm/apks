@@ -396,6 +396,31 @@
       ]
     },
     {
+      "id": "matjiphannun",
+      "name": "맛집한눈",
+      "description": "내 상황에 맞는 식당을 지도에서 찾고 개인 맛집 기록을 저장",
+      "package": "net.designboard.matjiphannun",
+      "releases": [
+        {
+          "version": "0.5.0",
+          "code": 5,
+          "label": "matjiphannun-5",
+          "date": "2026-11-19",
+          "registeredAt": "2026-11-19T19:07:03+09:00",
+          "type": "release",
+          "minAndroid": "7.0",
+          "file": "https://softm.github.io/apks/downloads/matjiphannun-5-release.apk",
+          "bytes": 5945335,
+          "sha256": "0a54191f540558452cec3e8ab2c69a45df8fcaf3e99bddf94a5f3457fba2b05e",
+          "notes": [
+            "한눈 공통 AdMob 광고와 Google Play 인앱 업데이트를 적용했습니다.",
+            "앱 시작 캐시 재검증, 네트워크 실패 재시도 화면, 기본·실사지도 전환을 적용했습니다.",
+            "Android 14 에뮬레이터에서 서명 Release 설치, 권한 거부·허용, 백그라운드 복귀, 운영 지도·식당 데이터와 광고를 검증했습니다."
+          ]
+        }
+      ]
+    },
+    {
       "id": "btmusic",
       "name": "블루투스 내비뮤직",
       "description": "차량 블루투스 연결에 맞춰 내비게이션과 음악 앱을 실행하는 자동화 앱",
