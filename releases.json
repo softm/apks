@@ -1,6 +1,31 @@
 {
   "apps": [
     {
+      "id": "matjiphannun",
+      "name": "맛집한눈",
+      "description": "내 주변 맛집과 방문 기록을 지도에서 한눈에",
+      "package": "net.designboard.matjiphannun",
+      "releases": [
+        {
+          "version": "0.6.0",
+          "code": 6,
+          "label": "matjiphannun-6",
+          "date": "2026-11-19",
+          "registeredAt": "2026-11-19T20:54:00+09:00",
+          "type": "release",
+          "minAndroid": "7.0",
+          "file": "https://softm.github.io/apks/downloads/matjiphannun-6-release.apk",
+          "bytes": 5947643,
+          "sha256": "f5b0c5f28865a4146f89883360c428eaaf3446c31b73de77605ed86f36b88316",
+          "notes": [
+            "한눈 공통 계정의 Google·카카오·네이버 로그인과 시스템 브라우저 인증을 적용했습니다.",
+            "암호화된 내 보관소 백업·복원과 원격 저장본 삭제 기능을 연결했습니다.",
+            "Android 16 에뮬레이터에서 서명 Release 업데이트 설치, 콜드 실행, 계정 메뉴와 앱 복귀를 검증했습니다."
+          ]
+        }
+      ]
+    },
+    {
       "id": "gagyebu",
       "name": "가계부",
       "description": "금융 문자와 알림을 확인하고 기록하는 하이브리드 가계부",
