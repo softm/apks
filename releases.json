@@ -75,6 +75,23 @@
       "package": "net.softm.juyuhannun",
       "releases": [
         {
+          "version": "1.1.28",
+          "code": 33,
+          "label": "juyuhannun-33",
+          "date": "2026-11-21",
+          "registeredAt": "2026-11-21T19:16:43+09:00",
+          "type": "release",
+          "minAndroid": "8.0",
+          "file": "https://github.com/softm/apks/releases/download/juyuhannun-33/juyuhannun-33-release.apk",
+          "bytes": 34043194,
+          "sha256": "2a93ccc5f35d9980a8b3953ce40adf1a9572a25277a39370b814c6872b9af074",
+          "notes": [
+            "정지 중에도 근방찾기 주유소 마커 표시",
+            "레이더 마커와 목록의 방향 문구 정리",
+            "레이더 시작 안정성 개선"
+          ]
+        },
+        {
           "version": "1.1.27",
           "code": 32,
           "label": "juyuhannun-32",
