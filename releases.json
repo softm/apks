@@ -75,6 +75,23 @@
       "package": "net.softm.juyuhannun",
       "releases": [
         {
+          "version": "1.1.27",
+          "code": 32,
+          "label": "juyuhannun-32",
+          "date": "2026-11-21",
+          "registeredAt": "2026-11-21T13:21:16+09:00",
+          "type": "release",
+          "minAndroid": "8.0",
+          "file": "https://softm.github.io/apks/downloads/juyuhannun-32-release.apk",
+          "bytes": 34043190,
+          "sha256": "dcdbb74c5aa01647b28b1cc6b353f54349c9b0423fb1209bfd5a0b05eb39e659",
+          "notes": [
+            "주행 중 현재 위치와 주변 주유소 갱신 개선",
+            "근방찾기와 화면 전체 레이더 배치로 주유소 비교 개선",
+            "레이더 패널과 목적지 선택 화면의 조작성 및 안정성 개선"
+          ]
+        },
+        {
           "version": "1.1.20",
           "code": 25,
           "label": "juyuhannun-25",
