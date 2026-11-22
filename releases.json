@@ -75,6 +75,23 @@
       "package": "net.softm.juyuhannun",
       "releases": [
         {
+          "version": "1.1.30",
+          "code": 35,
+          "label": "juyuhannun-35",
+          "date": "2026-11-23",
+          "registeredAt": "2026-11-23T00:03:00+09:00",
+          "type": "release",
+          "minAndroid": "8.0",
+          "file": "https://github.com/softm/apks/releases/download/juyuhannun-35/juyuhannun-35-release.apk",
+          "bytes": 34043190,
+          "sha256": "998bf0138c20bb517f29d15510e564844b5a84ebbd15dd35ec5776959e7d23c6",
+          "notes": [
+            "근방찾기 OFF에서도 정지·저속 시 가까운 주유소 표시",
+            "추천·전체 탐색에서 가까운 주유소 우선 표시와 GPS 거리 갱신 수정",
+            "주유소명 표시·마커 겹침 정리 및 목적지 선택 유지"
+          ]
+        },
+        {
           "version": "1.1.29",
           "code": 34,
           "label": "juyuhannun-34",
