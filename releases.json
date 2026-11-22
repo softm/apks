@@ -1,6 +1,31 @@
 {
   "apps": [
     {
+      "id": "weatherhannun",
+      "name": "날씨한눈",
+      "description": "오늘 날씨와 시간별 예보, 생활 행동 추천을 한눈에",
+      "package": "net.softm.weatherhannun",
+      "releases": [
+        {
+          "version": "1.0.12",
+          "code": 13,
+          "label": "weatherhannun-13",
+          "date": "2026-11-23",
+          "registeredAt": "2026-11-23T01:01:05+09:00",
+          "type": "release",
+          "minAndroid": "7.0",
+          "file": "https://softm.github.io/apks/downloads/weatherhannun-13-release.apk",
+          "bytes": 364825,
+          "sha256": "a8556ff111fed7eda26c5062a38d998a6b323feaa461f30983d1cf83395315e4",
+          "notes": [
+            "현재 날씨 알림의 기온·최고·최저·강수·바람 정보 배치를 개선했습니다.",
+            "화면 켤 때 날씨와 상시 알림의 상태·조작 버튼 가독성을 높였습니다.",
+            "Android 14 전용 AVD에서 기존 설치본 업데이트, 데이터 보존, 주요 화면과 권한 거부·허용을 검증했습니다."
+          ]
+        }
+      ]
+    },
+    {
       "id": "matjiphannun",
       "name": "맛집한눈",
       "description": "내 주변 맛집과 방문 기록을 지도에서 한눈에",
