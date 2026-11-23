@@ -100,6 +100,23 @@
       "package": "net.softm.juyuhannun",
       "releases": [
         {
+          "version": "1.1.31",
+          "code": 36,
+          "label": "juyuhannun-36",
+          "date": "2026-11-23",
+          "registeredAt": "2026-11-23T20:20:00+09:00",
+          "type": "release",
+          "minAndroid": "8.0",
+          "file": "https://github.com/softm/apks/releases/download/juyuhannun-36/juyuhannun-36-release.apk",
+          "bytes": 34043190,
+          "sha256": "9ddd5ed04eb343fb33d3fb0ea79baad85cb9bc18accdc41bee9341b232e147d4",
+          "notes": [
+            "전방탐색에서 실제 경로로 확인한 반대편 진입·유턴 주유소 제외",
+            "근방찾기에서 반대편 주유소를 중앙선·양방향 화살표 아이콘으로 구분",
+            "위치·진행방향 변경 시 경로 재확인 및 가까운 주유소 표시 유지"
+          ]
+        },
+        {
           "version": "1.1.30",
           "code": 35,
           "label": "juyuhannun-35",
