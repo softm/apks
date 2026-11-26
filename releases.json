@@ -100,6 +100,23 @@
       "package": "net.softm.juyuhannun",
       "releases": [
         {
+          "version": "1.1.33",
+          "code": 38,
+          "label": "juyuhannun-38",
+          "date": "2026-11-26",
+          "registeredAt": "2026-11-26T19:33:37+09:00",
+          "type": "release",
+          "minAndroid": "8.0",
+          "file": "https://github.com/softm/apks/releases/download/juyuhannun-38/juyuhannun-38-release.apk",
+          "bytes": 34043766,
+          "sha256": "f550ea845d29d1f433c43b3ae2a81a8c3cc3e1d6be406bd4363849c72745f152",
+          "notes": [
+            "전방 탐색의 반대차로 구분과 근방찾기 반대편 아이콘 표시",
+            "정차 중 진행방향 유지와 앞쪽 주유소 마커 배치 개선",
+            "경로 조회 연결과 오류 안내 개선"
+          ]
+        },
+        {
           "version": "1.1.31",
           "code": 36,
           "label": "juyuhannun-36",
